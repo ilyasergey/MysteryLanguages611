@@ -1,0 +1,7 @@
+*
+!info.rkt
+!*.dep
+!*.zo
+*README*
+
+!*/
